@@ -24,6 +24,7 @@ pip install jieba scikit-learn openai
 
 ### 5\. GitHub Repo
 
+https://github.com/asyuan0506/411285055_hw2
 
 -----
 
@@ -32,6 +33,7 @@ pip install jieba scikit-learn openai
   - `jieba`
   - `scikit-learn`
   - `openai`
+
 
 
 
